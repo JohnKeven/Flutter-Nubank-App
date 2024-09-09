@@ -1,4 +1,4 @@
-# Aplicativo NubankApp
+# App Nubank
 
 <a href="https://ibb.co/br4KpkN"><img src="https://i.ibb.co/Q6WKs4Y/Screen-Shot-2022-04-12-at-17-06-57.png" alt="Screen-Shot-2022-04-12-at-17-06-57" border="0"></a>
 <a href="https://ibb.co/312M0Kf"><img src="https://i.ibb.co/R2fBC8h/Screen-Shot-2022-04-12-at-17-07-36.png" alt="Screen-Shot-2022-04-12-at-17-07-36" border="0"></a>
